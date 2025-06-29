@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-2025/static/css/main.221f06db.css",
+    "main.js": "/portfolio-2025/static/js/main.41e19722.js",
+    "static/js/453.a22a4657.chunk.js": "/portfolio-2025/static/js/453.a22a4657.chunk.js",
+    "static/media/lego.PNG": "/portfolio-2025/static/media/lego.d69f564eca14eb2385ad.PNG",
+    "static/media/hotel.PNG": "/portfolio-2025/static/media/hotel.379cf955bf5b2ca6c531.PNG",
+    "static/media/gym.jpeg": "/portfolio-2025/static/media/gym.ffd3532252742418a357.jpeg",
+    "static/media/glossary.jpeg": "/portfolio-2025/static/media/glossary.6912f149b375459f28cc.jpeg",
+    "index.html": "/portfolio-2025/index.html",
+    "main.221f06db.css.map": "/portfolio-2025/static/css/main.221f06db.css.map",
+    "main.41e19722.js.map": "/portfolio-2025/static/js/main.41e19722.js.map",
+    "453.a22a4657.chunk.js.map": "/portfolio-2025/static/js/453.a22a4657.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221f06db.css",
+    "static/js/main.41e19722.js"
+  ]
+}
