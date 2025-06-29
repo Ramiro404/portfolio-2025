@@ -12,7 +12,6 @@ import Box from "@mui/material/Box";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import IconButton from "@mui/material/IconButton";
-import { Icon } from "@mui/material";
 import './ListData.css';
 
 export function ListData() {
