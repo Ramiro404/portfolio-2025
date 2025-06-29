@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+
+.nav-link{
+ padding: 10px 20px;
+ text-align: center;
+ color: white;
+ 
+ text-decoration: none;
+ display: inline-block;
+}
+
+.nav-link:hover{
+  background-color: #1976d2d7;
+}
